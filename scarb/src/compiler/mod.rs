@@ -9,7 +9,7 @@ pub use repository::*;
 use crate::core::{TargetKind, Workspace};
 
 mod compilation_unit;
-mod compilers;
+pub mod compilers;
 pub mod db;
 pub mod helpers;
 pub mod plugin;
