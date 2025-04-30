@@ -46,7 +46,7 @@ deno_task_shell.workspace = true
 derive_builder.workspace = true
 dialoguer.workspace = true
 directories.workspace = true
-dojo-lang = { git = "https://github.com/dojoengine/dojo", rev = "6aa31a3d3f74da1a504068a80fab3d00da46a76d" }
+dojo-lang = { git = "https://github.com/remybar/dojo", rev = "aa31422c7239549ecf61da5be620bcdaf3d850b4" }
 #dojo-lang = { path = "/Users/glihm/cgg/dojo/crates/dojo/lang" }
 dunce.workspace = true
 fs4.workspace = true
